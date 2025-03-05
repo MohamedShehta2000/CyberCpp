@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello World";
+	// system("PAUSE");
 	cin.ignore();
 	
 	return 0;
